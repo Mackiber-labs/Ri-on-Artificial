@@ -120,4 +120,3 @@ Las consultas comerciales son bienvenidas y se responderán en un plazo máximo 
 Mackiber Labs  
 ORCID: 0009-0004-4615-6825  
 GitHub: [@Mackiber-labs](https://github.com/Mackiber-labs)  
-Contacto: eaguayo@migst.cl
