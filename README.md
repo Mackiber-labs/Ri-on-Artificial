@@ -9,8 +9,6 @@
 
 **Estado del proyecto:** Hipótesis de diseño conceptual. Documentación en progreso.
 
-**DOI Zenodo:** [10.5281/zenodo.20465118](https://doi.org/10.5281/zenodo.20465118)
-
 ---
 
 ## Resumen
