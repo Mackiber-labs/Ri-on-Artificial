@@ -78,12 +78,8 @@ Este documento propone un **riñón artificial totalmente implantable** que devu
 
 | Imagen | Descripción |
 |--------|-------------|
-| `figs/diagrama-flujo.png` | Diagrama de flujo completo (sangre → filtros → orina) |
-| `figs/capas-dispositivo.png` | Corte transversal con las capas del dispositivo |
-| `figs/energia-piezo.png` | Detalle de los piezoeléctricos (PVDF+PDMS) en la pared externa |
-| `figs/esquema-implante.png` | Esquema anatómico del dispositivo implantado en el cuerpo |
-| `figs/limpieza-nanobots.png` | Detalle de la cavidad de nanobots y su sistema de limpieza |
-
+| 
+| `figs/Figuras : 1,2,3 y 4, referenciales` | Corte transversal con las capas del dispositivo |
 ---
 
 ## Próximos pasos
