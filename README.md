@@ -1,7 +1,7 @@
 ![License](https://img.shields.io/badge/License-Copyright%20%E2%84%97%20Enrique%20Aguayo-red)
 ![Non-commercial](https://img.shields.io/badge/Non--commercial-Required-orange)
 ![No Modification](https://img.shields.io/badge/No%20Modification-Without%20Permission-red)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20465118-blue)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20465118-blue)](https://doi.org/10.5281/zenodo.20465118)
 ![Status](https://img.shields.io/badge/Status-Hypothesis%20(Conceptual)-yellow)
 ![Language](https://img.shields.io/badge/Language-Spanish-red)
 
