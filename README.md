@@ -80,7 +80,7 @@ Este documento propone un **riñón artificial totalmente implantable** que devu
 |--------|-------------|
 | 
 | `figs/Figuras : 1,2,3 y 4, referenciales` | Corte transversal con las capas del dispositivo |
----
+
 
 ## Próximos pasos
 
