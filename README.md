@@ -64,6 +64,27 @@ La hemodiálisis crónica afecta a más de 2.5 millones de personas en el mundo.
 - [ ] Búsqueda de colaboradores para ensayos preclínicos
 
 ---
+## Licencia
+
+Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
+
+Este proyecto está protegido por derechos de autor.
+
+PERMITIDO:
+- Uso no comercial con fines educativos o de investigación.
+- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
+
+PROHIBIDO sin autorización expresa por escrito:
+- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
+- Modificación para entornos de producción.
+- Distribución de versiones modificadas sin autorización.
+
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
+Contacto: eaguayo@migst.cl
+
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
+
+Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
 
 ## Autor
 
@@ -72,8 +93,4 @@ Mackiber Labs
 ORCID: 0009-0004-4615-6825  
 Contacto: eaguayo@migst.cl
 
----
 
-## Licencia
-
-CC BY-NC 4.0 (Atribución-NoComercial 4.0 Internacional)
